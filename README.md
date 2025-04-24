@@ -1,4 +1,5 @@
 # MERN Bookstore Dashboard
+![Dashboard Preview](image.png)
 
 This project is a MERN (MongoDB, Express, React, Node.js) stack-based dashboard for managing a bookstore. It allows users to perform CRUD operations on books and provides a user-friendly interface for managing the bookstore's inventory.
 
@@ -60,18 +61,16 @@ npm install
 ### 1. Start MongoDB
 Ensure MongoDB is running locally or provide a connection string for a cloud instance (e.g., MongoDB Atlas).
 
-### 2. Configure Environment Variables
-Create a `.env` file in the `backend` folder with the following variables:
-```env
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-```
+### 2. Download dependencies
+Open Frontend in terminal and run:  npm install
+Open BackEnd in termianl and run: 
+node install
+node init -y
 
 ### 3. Start the Backend Server
 Navigate to the `backend` folder and run:
 ```bash
-npm start
+node index.js
 ```
 The backend server will start on `http://localhost:3000`.
 
@@ -87,13 +86,13 @@ The frontend will start on `http://localhost:3001`.
 ## Project Structure
 ```
 MERN-bookstore-dashboard/
-├── backend/        # Node.js and Express backend
+├── BackEnd/        # Node.js and Express backend
 │   ├── models/     # Mongoose models
 │   ├── routes/     # API routes
 │   ├── controllers/ # Request handlers
 │   ├── server.js   # Entry point for the backend
 │   └── .env        # Environment variables
-├── client/       # React frontend
+├── FrontEnd/       # React frontend
 │   ├── src/
 │   │   ├── components/ # Reusable components
 │   │   ├── pages/      # Application pages
