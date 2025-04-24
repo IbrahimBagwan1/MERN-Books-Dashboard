@@ -1,5 +1,5 @@
 # MERN Bookstore Dashboard
-![Dashboard Preview](image.png)
+![Dashboard Preview](User_Interface.png)
 
 This project is a MERN (MongoDB, Express, React, Node.js) stack-based dashboard for managing a bookstore. It allows users to perform CRUD operations on books and provides a user-friendly interface for managing the bookstore's inventory.
 
@@ -44,7 +44,8 @@ cd MERN-bookstore-dashboard
 Navigate to the `backend` folder and install dependencies:
 ```bash
 cd backend
-npm install
+node install
+node init -y
 ```
 
 #### Frontend
