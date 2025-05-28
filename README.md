@@ -1,7 +1,7 @@
 # MERN Bookstore Dashboard
 ![Dashboard Preview](User_Interface.png)
 
-This project is a MERN (MongoDB, Express, React, Node.js) stack-based dashboard for managing a bookstore. It allows users to perform CRUD operations on books and provides a user-friendly interface for managing the bookstore's inventory.
+This project is a MERN (MongoDB, Express, React, Node.js) stack-based dashboard for managing a bookstore. It allows users to perform CRUD operations on books and provides a user-friendly interface for managing the bookstore's inventory.  
 
 ## Table of Contents
 - [Features](#features)
@@ -19,7 +19,7 @@ This project is a MERN (MongoDB, Express, React, Node.js) stack-based dashboard 
 - Responsive and user-friendly interface.
 - Backend API built with Node.js and Express.
 - MongoDB for database management.
-- React for the frontend.
+- React for the frontend, minimal user interface.
 
 ---
 
