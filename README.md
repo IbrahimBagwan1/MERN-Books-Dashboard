@@ -128,3 +128,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 For more details, visit the [GitHub Repository](https://github.com/IbrahimBagwan1/MERN-bookstore-dashboard.git).
+Give a Star if you liked the Repository.
