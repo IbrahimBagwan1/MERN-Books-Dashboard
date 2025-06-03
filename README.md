@@ -60,7 +60,7 @@ npm install
 ## Running the Application
 
 ### 1. Start MongoDB
-Ensure MongoDB is running locally or provide a connection string for a cloud instance (e.g., MongoDB Atlas).
+Ensure MongoDB is running locally, or provide a connection string for a cloud instance (e.g., MongoDB Atlas).
 
 ### 2. Download dependencies
 Open Frontend in terminal and run:  npm install
